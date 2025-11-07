@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Milk",
+    "price": 25000,
+    "stock": 10,
+    "image": "images/milk.png"
+  },
+  {
+    "name": "Bread",
+    "price": 8000,
+    "stock": 20,
+    "image": "images/bread.png"
+  },
+  {
+    "name": "Eggs",
+    "price": 30000,
+    "stock": 6,
+    "image": "images/eggs.png"
+  }
+]
